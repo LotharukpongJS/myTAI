@@ -1,2 +1,2 @@
-vignettes/** linguist-vendored=false
-docs/** linguist-vendored=false
+vignettes/** linguist-documentation
+docs/** linguist-documentation
